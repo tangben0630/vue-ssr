@@ -1,0 +1,1 @@
+export const getV = state => state.count++
